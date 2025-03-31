@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/Report%20Issues-Telegram-blue?logo=telegram" alt="Report Issues">
   </a>
 </p>
+
 [!!]**Python Translate Library**
 ## Installing on Terminal, or CMD
 ```bash
