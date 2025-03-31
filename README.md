@@ -16,7 +16,7 @@
 [!!]**Python Translate Library**
 ## Installing on Terminal, or CMD
 ```bash
-pip install pytran==0.0.1
+pip install pytran==0.1.1
 ```
 Import: from pytrans import translate
 
