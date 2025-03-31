@@ -12,24 +12,18 @@
     <img src="https://img.shields.io/badge/Report%20Issues-Telegram-blue?logo=telegram" alt="Report Issues">
   </a>
 </p>
-_______________
 [!!]**Python Translate Library**
 ## Installing on Terminal, or CMD
 ```bash
 pip install pytran==0.0.1
 ```
-___
-[!!] **Use:**
-```python
-from pytrans import translate
+Import: from pytrans import translate
 
 # Automatic identification of the text in the language, and translate.
-print(translate("How are you?", to_lang="ar"))  
+`print(translate("How are you?", to_lang="ar"))` 
 
 # Translate with from and to.
-print(translate("Bonjour", from_lang="fr", to_lang="en"))
-```
-______
+`print(translate("Bonjour", from_lang="fr", to_lang="en"))`
 <br><br>
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-%20❤️%20by%20kkkik-blue?style=flat&logo=heart" alt="Made with love">
