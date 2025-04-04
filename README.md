@@ -8,7 +8,7 @@
   <a href="https://github.com/kkkik">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" alt="GitHub Profile">
   </a>
-  <a href="https://t.me/TastyCode">
+  <a href="https://t.me/pyd9c">
     <img src="https://img.shields.io/badge/Report%20Issues-Telegram-blue?logo=telegram" alt="Report Issues">
   </a>
 </p>
